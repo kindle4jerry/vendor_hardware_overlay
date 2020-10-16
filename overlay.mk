@@ -25,6 +25,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-huawei-ATU \
 	treble-overlay-huawei-AUM \
 	treble-overlay-huawei-BKL \
+	treble-overlay-huawei-BLA \
 	treble-overlay-huawei-BND \
 	treble-overlay-huawei-CLT \
 	treble-overlay-huawei-DUK \
